@@ -1,8 +1,7 @@
 # RocketSeat - Ignite desafio 03 de react Js
 
-<a href="https://ignite-react-js-desafio03.vercel.app/">
-  Ver o projeto
-</a>
+## Para ver o projeto link
+https://ignite-react-js-desafio03.vercel.app/
 
 ## Para instalar as dependências
 npm install
